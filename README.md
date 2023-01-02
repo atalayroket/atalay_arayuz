@@ -19,17 +19,10 @@ Teknofest Roket Yarışması Orta İrtifa Kategorisi için hazırlanılmıştır
 <img src="">
 
 <br>
+<br>
 
 > **SerialPort**
 
-<details>
- <summary>Özellikleri</summary>
- 
--  
-- 
-- 
-- 
-- 
-</details>
+Bir serial port uygulamasıdır. Program, verileri otomatik olarak masaüstüne text dosyasına kaydediyor.
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/104703949/210268475-33d6483d-4205-447a-9bdf-dc93933e5a08.png" >
