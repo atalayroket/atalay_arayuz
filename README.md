@@ -20,7 +20,7 @@ Teknofest Roket Yarışması Orta İrtifa Kategorisi için hazırlanılmıştır
 
 <br>
 
-> **Serial Port**
+> **SerialPort**
 
 <details>
  <summary>Özellikleri</summary>
