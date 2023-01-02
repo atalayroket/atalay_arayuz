@@ -2,7 +2,7 @@
 
 <br>
 
-> **Teknofest Roket Yarışması**
+> **Roket Yarışması**
 
 Teknofest Roket Yarışması Orta İrtifa Kategorisi için hazırlanılmıştır.
 
