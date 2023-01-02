@@ -9,7 +9,7 @@ Teknofest Roket Yarışması Orta İrtifa Kategorisi için hazırlanılmıştır
 <details>
 <summary>Özellikleri</summary>
  
-- C# dili ile Windows Forms uygulamasında masaüstü arayüz yapılmıştır.
+- C# dili ile Windows Forms uygulamasında yapılmıştır.
 - Kayıt işlemini Excel ile yapıyor. 
 - Hakem yer istasyonuna veri gönderebiliyor.
 - Gelen veriler düzenlenerek veri akışı koyulmuştur.
