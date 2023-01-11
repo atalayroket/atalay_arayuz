@@ -14,6 +14,6 @@ Roket yarışması için C# dili ile Windows Forms uygulamasında yapılmıştı
 
 > **SerialPort**
 
-Bir serial port uygulamasıdır. Program, verileri otomatik olarak masaüstüne text dosyasına kaydediyor. Uygulamayı yukardan indirip test çalışmalarınızda kullanabilirsiniz.
+Bir serial port uygulamasıdır. Yer testlerinde kullanılması amacıyla yapılmıştır. Program, gelen verileri otomatik olarak masaüstüne text dosyasına kaydediyor. Uygulamayı yukardan indirip test çalışmalarınızda kullanabilirsiniz.
 
 <img src="https://user-images.githubusercontent.com/104703949/210268475-33d6483d-4205-447a-9bdf-dc93933e5a08.png" >
