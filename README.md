@@ -2,19 +2,6 @@
 
 <br>
 
-> **Roket Yarışması**
-
-Teknofest Roket Yarışması Orta İrtifa Kategorisi için hazırlanılmıştır.
-- C# dili ile Windows Forms uygulamasında yapılmıştır.
-- Kayıt işlemini Excel ile yapıyor. 
-- Hakem yer istasyonuna veri gönderebiliyor.
-- Gelen veriler düzenlenerek veri akışı koyulmuştur.
-
-<img src="https://user-images.githubusercontent.com/104703949/210269193-1bdf7b89-4bed-4381-8046-e29365784dc5.png">
-
-<br>
-<br>
-
 > **SerialPort**
 
 Bir serial port uygulamasıdır. Program, verileri otomatik olarak masaüstüne text dosyasına kaydediyor. Uygulamayı yukardan indirip test çalışmalarınızda kullanabilirsiniz.
