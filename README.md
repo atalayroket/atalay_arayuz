@@ -12,7 +12,7 @@ Roket yarışması için C# dili ile Windows Forms uygulamasında yapılmıştı
 <br>
 <br>
 
-> **SerialPort**
+> **Serial Port**
 
 Bir serial port uygulamasıdır. Yer testlerinde kullanılması amacıyla yapılmıştır. Program, gelen verileri otomatik olarak masaüstüne text dosyasına kaydediyor. Uygulamayı yukardan indirip test çalışmalarınızda kullanabilirsiniz.
 
